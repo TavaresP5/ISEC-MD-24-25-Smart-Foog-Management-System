@@ -49,6 +49,6 @@ This repository primarily contains the Unified Modeling Language (UML) artifacts
 
 ## Authors
 
-André Pessoa Tavares 
-Nuno Tomás Paiva 
-Rui Martins dos Santos 
+- André Pessoa Tavares 
+- Nuno Tomás Paiva 
+- Rui Martins dos Santos 
